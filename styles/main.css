@@ -1,0 +1,23 @@
+body {
+  /* background-size: cover!important; */
+  /* background-image: url('assets/head_image.png')!important; */
+  background: #121212;
+  background-color: #121212!important;
+}
+
+p {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.subtitle {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+a {
+  text-decoration: none;
+}
+
+.card {
+  border-radius: 10px;
+  background-color: #252422;
+}
