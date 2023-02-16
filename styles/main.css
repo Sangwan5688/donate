@@ -21,4 +21,9 @@ a {
   border-radius: 10px;
   border-color: rgba(255, 255, 255, 0.1);
   background-color: #151515;
+  transition: background-color;
+}
+
+.card:hover {
+  background-color: rgba(255, 255, 255, 0.05);
 }
